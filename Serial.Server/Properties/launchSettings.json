@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Serial.Server": {
+      "commandName": "Project",
+      "commandLineArgs": "--ports 3"
+    }
+  }
+}
